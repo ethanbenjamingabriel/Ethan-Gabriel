@@ -1,6 +1,4 @@
-👋 Hi there! My name is Ethan Gabriel and I recently graduated from Father Michael McGivney C.H.S as an International 
-Baccalaureate Student with a top 6 average of 99.8%. I am beginning my post-secondary studies this fall at the University of Waterloo 
-for Honours Electrical Engineering, CO-OP.
+👋 Hi there! My name is Ethan Gabriel, nice to meet you! I recently completed my 1st co-op term at PCL as a Technology Analyst, providing hardware and software support to District offices across North America and Australia. I am in my 1B Term of Honours Computer Engineering at the University of Waterloo and I am seeking a co-op placement for the Fall 2022 term. 
 
 👀 I am currently working at Emergency Lighting Supplies (E.L.S) as an office administrator, preparing and organizing 
 invoices for the company. I am also an Academic Tutor for Simply Scholars Tutoring & Mentoring Services, Helping secondary 
@@ -11,8 +9,10 @@ problems, exploring new technology, and watching car reviews. As a passionate co
 to enhance my skills through every situation that comes my way. I am looking forward to meeting new people and learning new skills!
 
 📫 Here are some links you can use to reach me :)
+- Personal Website: www.ethangabriel.w3spaces.com 
 - Linkedin: www.linkedin.com/in/ethangabriel 
 - Email: ethanbenjamin.gabriel@gmail.com 
+- Email: e6gabrie@uwaterloo.ca
 
 <!---
 Ethan-Gabriel/Ethan-Gabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
