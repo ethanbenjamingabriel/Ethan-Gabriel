@@ -9,7 +9,7 @@ problems, exploring new technology, and watching car reviews. As a passionate co
 to enhance my skills through every situation that comes my way. I am looking forward to meeting new people and learning new skills!
 
 📫 Here are some links you can use to reach me :)
-- Personal Website: www.ethangabriel.w3spaces.com 
+- Personal Website: www.ethanbenjamingabriel.com 
 - Linkedin: www.linkedin.com/in/ethangabriel 
 - Email: ethanbenjamin.gabriel@gmail.com 
 - Email: e6gabrie@uwaterloo.ca
